@@ -6,6 +6,3 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Makhmud%20Tojiboev-blue?logo=Linkedin&logoColor=blue&labelColor=white&style=flat-square)](https://www.linkedin.com/in/makhmudtojiboev)
 [![GitHub](https://img.shields.io/badge/GitHub-makhmudtojiboev-black?logo=Github&labelColor=black&style=flat-square)](https://github.com/makhmudtojiboev)
 
-<p style="display: flex; justify-content: space-between;">
-<img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="Top Languages" width="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makhmudtojiboev&layout=compact&theme=shades-of-purple&bg_color=00000000&hide_border=true" />
-</p>

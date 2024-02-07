@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/github/followers/khusanrashidov?label=Follow%20Me&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/stars/khusanrashidov?affiliations=OWNER&style=social)](https://github.com/khusanrashidov)
 [![Github](https://img.shields.io/github/watchers/khusanrashidov/khusanrashidov?style=social)](https://github.com/khusanrashidov)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Khusan%20Rashidov-blue?logo=Linkedin&logoColor=blue&labelColor=white&style=flat-square)](https://www.linkedin.com/in/makhmudtojiboev)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Makhmud%20Tojiboev-blue?logo=Linkedin&logoColor=blue&labelColor=white&style=flat-square)](https://www.linkedin.com/in/makhmudtojiboev)
 [![GitHub](https://img.shields.io/badge/GitHub-khusanrashidov-black?logo=Github&labelColor=black&style=flat-square)](https://github.com/khusanrashidov)
 
 <p style="display: flex; justify-content: space-between;">
